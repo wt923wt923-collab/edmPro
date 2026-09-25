@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+  <path d="M 4 2 L 13 2 L 18 7 L 18 20 C 18 20.8 17.3 21.5 16.5 21.5 L 4 21.5 C 3.2 21.5 2.5 20.8 2.5 20 L 2.5 3.5 C 2.5 2.7 3.2 2 4 2 Z" fill="#0f3179"/>
+  <!-- Fold corner -->
+  <path d="M 13 2 L 13 7 L 18 7 Z" fill="#ffffff" opacity="0.3"/>
+  <!-- Document Lines -->
+  <line x1="6" y1="10" x2="14" y2="10" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="6" y1="13.5" x2="14" y2="13.5" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="6" y1="17" x2="11" y2="17" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

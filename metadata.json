@@ -1,0 +1,6 @@
+{
+  "name": "eDM 視覺化編輯與防破圖複製工具",
+  "description": "專業 104 學習 eDM HTML 編輯器，支援 Word 式直接編輯儲存、一鍵複製 HTML、Base64 防破圖模式與一鍵複製郵件至 Gmail。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
